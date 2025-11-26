@@ -1,0 +1,3 @@
+B. As desvantagens Sistemas de controlo de Versões Centralizados são pouca organização e
+
+C. Os 3 componentes principais do Git são: O commit, o pull e o push
