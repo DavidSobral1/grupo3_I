@@ -1,0 +1,4 @@
+ReadMe
+
+Descreva o que é o Stashing
+R:
