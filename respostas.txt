@@ -1,6 +1,6 @@
-B. As desvantagens Sistemas de controlo de Vers√µes Centralizados s√£o pouca organiza√ß√£o e
+B. As desvantagens Sistemas de controlo de Vers?£ges Centralizados s?¢Go pouca organiza?°±?¢Go e
 
-C. Os 3 componentes principais do Git s√£o: O commit, o pull e o push
+C. Os 3 componentes principais do Git s?¢Go: O commit, o pull e o push
 
-Diga qual o comando git para remover um ficheiro da area de staging enquanto mantem as altera√ß√µes no seu diretorio de trabalho
+Diga qual o comando git para remover um ficheiro da area de staging enquanto mantem as altera?°±?£ges no seu diretorio de trabalho
 R:
